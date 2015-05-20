@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <property>
+        <name>fs.default.name</name>
+        <value>hdfs://mesos-dev.isilon-1.oscar.priv:8020/</value>
+        <final>true</final>
+    </property>
+</configuration>
